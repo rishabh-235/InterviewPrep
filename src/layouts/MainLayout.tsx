@@ -1,6 +1,6 @@
-import Container from "@/components/Container"
+import {Container} from "@/components/Container"
 import Footer from "@/components/Footer"
-import Header from "@/components/Header"
+import {Header} from "@/components/Header"
 import { Outlet } from "react-router-dom"
 
 function MainLayout() {
@@ -9,7 +9,7 @@ function MainLayout() {
         {/* handler to store the user data */}
         <Header />
 
-        <Container className="fles-grow">
+        <Container className="flex-grow">
             <main className="flex-grow">
                 <Outlet />
             </main>

@@ -27,6 +27,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live application here: [InterviewPrep Deployment](https://interview-prep-smoky-nine.vercel.app/)
+
+---
+
 ## 📦 Installation
 
 ### ✅ Prerequisites
